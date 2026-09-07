@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Digital Era</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="webstyle.css">
+</head>
+
+
+<body class="digital-pg">
+    <nav>
+        <ul>
+            <li><a href="home.html">The Early Days</a>
+            <a href="one.html">Saturday Mornings</a>
+            <a href="two.html">The Digital Era</a></li>
+        </ul>
+    </nav>
+
+
+    <div class="container">
+        <header>
+            <h1 style="text-shadow: 3px 3px 10px rgba(0,0,0,0.8);">The Digital Frontier<br></h1>
+            <p style="border-left: 4px solid #949090c5; padding-left: 15px;">From Pixels to Perfection</p>
+        </header>
+
+        <div class="content-grid">
+
+
+            <div class="sidebar">
+                <h2>The Pixar Shift</h2>
+                <p2>In 1995, *Toy Story* changed the face of animation. *Toy Story* was the first full length film created totally with computers (computer generated imagery). Traditional animation has always been made with 2D drawings while computer animation creates 3-D models with digital skeletons. Instead of drawing each frame, animators manipulate models within a virtual three-dimensional space and the computer then renders the model into an image. As a result, we are able to create new levels of detail regarding lighting, textures and camera movements. For example, we are able to see each strand of fiber on a character's sweater or how light bends through a glass of water.</p2>
+                <p2>As a result, there will be an increase in what is being called the "CGI Boom". Almost all major studios will transition from using traditional hand drawn techniques for their large budget films to using CGI. Although some will miss the "feel of pencil" CGI has provided artists with new ways to tell stories that were unable to be told with traditional techniques. Artists are beginning to use the digital tools to emulate the style of hand-drawn comic books as seen in *Spider-Man: Into the Spider Verse* and show that technology does not replace the artist but provides them with more tools.</p2>
+                <h3>Gallery Media Down</h3>
+            </div>
+
+                    
+                <div class="article-container">
+                    <div class="article">
+                        <img src="https://images.unsplash.com/photo-1580477667995-2b94f01c9516?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="main-img" alt="Figure 1: hand-drawn storyborad">
+                        
+
+                        <h2>Animation for Adults and Global Trends</h2>
+                            <p>With each generation of people growing up on cartoons, the medium also developed at the same time. In the early 1990s, when *The Simpsons* first aired and was successful, it opened the door to a huge market of "adult" animation. More adult type shows were created such as *Bojack Horseman*, *Rick and Morty*, *Arcane*. These types of shows have shown how adult themed issues such as, mental health, nihilism, political complexity and many other topics could be explored using the medium of animation. Animation now uses its ability to animate freely, to express ideas and subjects that may cost too much money or be visually unfeasible in live-action. It is no longer simply a genre of media but instead a medium that can represent all genres (horror, documentary, romance etc.).</p>
+                            <p>Lastly, we must address the influence of anime globally. Global creators have been affected by Japanese animation. They have introduced more complex character developments and cinematic pacing. Currently the differences between Western and Eastern animated works are disappearing due to collaborations around the globe. No matter if you're creating a hand drawn independent film or a $200 million Pixar film, animation remains one of the greatest tools for humans to express their creativity and imagination. As long as there are stories to tell, there will always be animators trying to figure out a way to bring those stories to life.</p>
+                    </div>
+                </div>
+        </div>
+    </div> 
+                    <img src="https://parentingpatch.com/wp-content/uploads/2025/06/Best-90s-Kids-Cartoons.png" >
+  
+                                            <footer>
+                                                <h4>Contact Information</h4>
+                                                <p>mganeva@uoguelph.ca    ~   1373383 Maria Ganeva ~ Animation History</p>
+                                            </footer>
+    
+</body>
+</html>
